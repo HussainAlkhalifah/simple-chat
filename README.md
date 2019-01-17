@@ -1,2 +1,2 @@
 # simple-chat
-a simple android group chat app that uses FireBase 
+a simple group chat app in android that uses FireBase 
